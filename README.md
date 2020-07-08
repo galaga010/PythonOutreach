@@ -1,5 +1,4 @@
 # PythonOutreach
-learn and review python
 
 Introduction to Python 
 
