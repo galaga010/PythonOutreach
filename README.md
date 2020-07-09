@@ -22,7 +22,7 @@ Python Commands
 
 Terms
 |Term|Description|
-|---|---|---|
+|---|---|
 |Command |a word that performs an action|
 |Incremental|add code line by line and execute it|
 |Configure|add a string or number to change the command|
