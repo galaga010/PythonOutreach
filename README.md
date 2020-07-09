@@ -21,10 +21,11 @@ Python Commands
 |circle |Make a circle |tommy.circle(80) |
 
 Terms
-Command - a word that performs an action
-Incremental - add code line by line and execute it
-Configure - add a string or number to change the command
-String - text word or sentence
-Syntax - special characters in code that are required to indicate start or end of command
-Coordinates - position on a screen or part of the screen
+|---|---|
+|Command |a word that performs an action|
+|Incremental|add code line by line and execute it|
+|Configure|add a string or number to change the command|
+|String|text word or sentence|
+|Syntax|special characters in code that are required to indicate start or end of command|
+|Coordinates|position on a screen or part of the screen|
 
