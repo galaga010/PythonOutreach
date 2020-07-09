@@ -21,7 +21,7 @@ Python Commands
 |circle |Make a circle |tommy.circle(80) |
 
 Terms
-|---|---|
+|---|---|---|
 |Command |a word that performs an action|
 |Incremental|add code line by line and execute it|
 |Configure|add a string or number to change the command|
