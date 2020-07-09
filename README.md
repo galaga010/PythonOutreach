@@ -29,4 +29,5 @@ Terms
 |String|text word or sentence|
 |Syntax|special characters in code that are required to indicate start or end of command|
 |Coordinates|position on a screen or part of the screen|
+|Render| display text in the browser or app|
 
