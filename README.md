@@ -31,3 +31,14 @@ Terms
 |Coordinates|position on a screen or part of the screen|
 |Render| display text in the browser or app|
 
+
+Trinket Programs
+https://trinket.io/challenges/bullseye.html
+
+https://trinket.io/library/trinkets/aa547665bd
+
+Use your arrow keys to move the rocket
+change around the speeds and you can make the rocket move slow or fast
+move_speed = 100
+turn_speedR = 100
+turn_speedL = 10
