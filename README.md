@@ -30,12 +30,15 @@ Terms
 |Syntax|special characters in code that are required to indicate start or end of command|
 |Coordinates|position on a screen or part of the screen|
 |Render| display text in the browser or app|
+|Console|text display of code that is executing|
 
 
 Trinket Programs
 https://trinket.io/challenges/bullseye.html
 
 https://trinket.io/library/trinkets/aa547665bd
+
+https://trinket.io/python/8eb5179d7f
 
 Use your arrow keys to move the rocket
 change around the speeds and you can make the rocket move slow or fast
