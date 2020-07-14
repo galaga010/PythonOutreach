@@ -40,8 +40,8 @@ https://trinket.io/library/trinkets/aa547665bd
 
 https://trinket.io/python/8eb5179d7f
 
-Use your arrow keys to move the rocket
-change around the speeds and you can make the rocket move slow or fast
-move_speed = 100
-turn_speedR = 100
-turn_speedL = 10
+
+Turtle Documentation
+https://docs.python.org/3.3/library/turtle.html?highlight=turtle#module-turtle
+
+
